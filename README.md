@@ -1,6 +1,6 @@
 ## Welcome to DriveY
 
-DriveY is a cPanel Plugin being designed and developed to take complete backups to following cloud storage:
+DriveY is a cPanel Plugin being designed and developed to take complete automated backups to following cloud storage:
  - OneDrive
  - GoogleDrive
  - DropBox
